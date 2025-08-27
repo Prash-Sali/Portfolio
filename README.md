@@ -42,8 +42,8 @@ Portfolio/
 ---
 
 ## ⚡ Setup Instructions
-```bash
-# Clone this repo
+
+Clone this repo
 git clone https://github.com/Prash-Sali/Portfolio.git
 cd Portfolio
 
