@@ -70,7 +70,7 @@ This project can be deployed easily on:
 
 Prashant Sali
 
-[LinkedIn](https://www.linkedin.com/in/prashant-sali-8aa0091b6) | [GitHub](https://github.com/Prash-Sali) | [Email](prashantsali502@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/prashant-sali-8aa0091b6) | [GitHub](https://github.com/Prash-Sali) | [Email](mailto:prashantsali502@gmail.com)
 
 ## 📄 License
 
