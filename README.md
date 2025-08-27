@@ -19,7 +19,6 @@ This portfolio serves as a digital representation of my skills, projects, and on
 - Version Control: Git + GitHub
 
 ## 📂 Project Structure
-    ```bash
     Portfolio/
     ├── public/                # Static assets
     ├── src/
@@ -31,7 +30,6 @@ This portfolio serves as a digital representation of my skills, projects, and on
     ├── package.json           # Dependencies
     ├── tailwind.config.js     # Tailwind configuration
     └── vite.config.js         # Vite configuration
-    ```
 
 ## ⚡ Setup Instructions
 
@@ -42,24 +40,31 @@ This portfolio serves as a digital representation of my skills, projects, and on
     ```
 
 2.  **Install dependencies**
+    ```bash
     npm install
+    ```
     
 
 3. **Start dev server**
+    ```bash
     npm run dev
+    ```
 
 4. **Build production files**
+    ```
     npm run build
+    ```
 
 5. **Preview production build**
+    ```
     npm run preview
+    ```
 
 ## 🌍 Deployment
-
-    This project can be deployed easily on:
-    Vercel
-    Netlify
-    GitHub Pages
+This project can be deployed easily on:
+- Vercel
+- Netlify
+- GitHub Pages
 
 ## 🧑‍💻 Author
 
